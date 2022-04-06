@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652464042061",
+    "project_id": "datawiz-4a465",
+    "storage_bucket": "datawiz-4a465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652464042061:android:b761606551d868da47ac04",
+        "android_client_info": {
+          "package_name": "com.example.datawiz_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652464042061-t7fur3thv90u8tj07b1jhu1q67o9tphg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOlSAmO-wf23vbCoaDGPy_fSMNBzQncVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652464042061-t7fur3thv90u8tj07b1jhu1q67o9tphg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
