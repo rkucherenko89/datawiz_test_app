@@ -185,12 +185,3 @@ class _LoggedInWidgetState extends State<LoggedInWidget> {
     );
   }
 }
-
-var products = {
-  'barcode': '221133221144',
-  'name': 'Milk',
-  'reviews': {
-    1: 'sjfijsdd',
-    2: 'fsfs',
-  },
-};
